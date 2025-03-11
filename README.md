@@ -34,7 +34,7 @@ IOS 워크북 &amp; 미션 제출 레포지토리 (ദ്ദി⩌𖥦⩌)
 
 1. `닉네임/main 브랜치`를 생성해주세요. PR 보낼 때 main 브랜치가 아닌 자신의 닉네임/main 브랜치로 올립니다.
 2. 이 리포지토리를 fork해 주세요. 키워드나 미션은 fork한 리포지토리에 업로드하세요.
-3. fork한 레포지터리 에서 이 branch에 pull request를 생성합니다. (main/8th_IOS <- kerry/8th_IOS)
+3. fork한 레포지터리 에서 이 branch에 pull request를 생성합니다. (예시: base:main <- compare:kerry/main)
 4. 파트장의 approve를 받으면, PR을 머지하고 이때, PR 제목은
    `[n주차/닉네임] {키워드 or 미션} 제출합니다` 형식으로 작성합니다.
 
