@@ -19,7 +19,7 @@ struct SignupView: View {
         VStack(alignment: .center){
             
             Spacer().frame(height: 172)
-            
+
 //            Text("\(userId ?? "")")
 //            Text("\(userPwd ?? "")")
 //            Text("\(userEmail ?? "")")
